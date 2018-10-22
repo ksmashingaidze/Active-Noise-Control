@@ -1,5 +1,6 @@
 # EEE4022S-Active-Noise-Control
-MSHKUZ001 Final Year Thesis, Electrical Engineering, University of Cape Town
+MSHKUZ001 Final Year Thesis, Electrical Engineering, University of Cape Town 
+
 Maintained by Kuziwakwashe Stephen Mashingaidze
 
 1.) ACTIVE NOISE CONTROL USING ARDUINO DUE
