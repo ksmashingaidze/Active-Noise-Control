@@ -26,7 +26,7 @@ ii.) DUAL CHANNEL IMPLEMENTATION
 - Left channel error microphone signal to be connected to pin A1 (after 1.56V biasing)
 - Right channel error microphone signal to be connected to pin A3 (after 1.56V biasing)
 - Left channel output available at DAC0 (biased by 1.56V)
-- Left channel output available at DAC1 (biased by 1.56V)
+- Right channel output available at DAC1 (biased by 1.56V)
 
 2.) MATLAB SIMULATIONS
 - Connect microphone to PC, then run code
